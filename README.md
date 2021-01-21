@@ -1,0 +1,1 @@
+# Karel-Newspaper.py.
